@@ -13,13 +13,21 @@ See this blog-post for more on this project vision: https://www.notion.so/Good-f
 # What you will need to install this project is: 
 
 Arduino IDE, properly configured. To download this IDE visit: https://www.arduino.cc/en/software and to configure, see this reference video: https://www.youtube.com/watch?v=adLUgmCJKnM&t=11s
+
 A USB-C Cable
+
 ESP32 TTGO-T1
+
 White foldable envelope with a window for the ESP32 screen and a hole through which to thread the string
+
 2-3 yeards of string 
+
 A popsicle stick
-A pen. 
-tape 
+
+A pen 
+
+scotch tape (preferably double-sided)
+
 A 500 mAh EHAO battery, soldered to the charging cables which come with the ESP32. For information on soldering, please visit the Barnard Design studio and be sure to take safety precautions while soldering. 
 
 # Steps: 
