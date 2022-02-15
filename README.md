@@ -40,4 +40,4 @@ A 500 mAh EHAO battery, soldered to the charging cables which come with the ESP3
 
 4. Thread one end of your string through the envelope and tie into a secure bow. Tie the other end securely to a popsicle stick. Feel free to use tape. 
 
-5. Hang your popsicle from the cieling of the fifth floor of Milstein with the others. 
+5. Hang your device so that it's flat against the cieling of the fifth floor of Milstein with the others. 
